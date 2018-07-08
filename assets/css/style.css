@@ -1,11 +1,22 @@
 .jumbotron {
 	background-color: black;
 		color: white;
+		background-image: url("Train.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-attachment: fixed;
+    background-position: center;
+		
 }
 
 body {
 	background-color: black;
 	color: white;
+	background-image: url("Train.jpg");
+	background-repeat: repeat;
+	background-size: 100%;
+	background-attachment: fixed;
+    background-position: center;
 }
 
 .panel-heading {
